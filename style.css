@@ -124,7 +124,9 @@ main {
     justify-content: space-between;
 }
 .cart-icon {
-    margin-left: 20px; 
+    margin-left: 20px;
+    cursor: pointer; 
+    align-items: center
 }
 .header-content {
     display: flex;
