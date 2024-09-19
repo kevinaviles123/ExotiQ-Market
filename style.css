@@ -118,6 +118,25 @@ main {
     font-weight: bold;
     text-align: right;
 }
+.header-content {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+.cart-icon {
+    margin-left: 20px; 
+}
+.header-content {
+    display: flex;
+    align-items: center; 
+}
+.store-name {
+    display: flex;
+    align-items: center; 
+}
+.cart-icon {
+    margin-left: 10px; 
+}
 @media (max-width: 1200px) {
     h1 {
         font-size: 50px;
